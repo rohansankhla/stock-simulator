@@ -1,4 +1,4 @@
-package labs.lab7;
+package [INSERT];
 import java.util.ArrayList;
 import java.util.List;
 
