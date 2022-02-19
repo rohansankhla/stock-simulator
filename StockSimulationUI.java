@@ -1,4 +1,4 @@
-package labs.lab7;
+package [INSERT];
 import java.util.Scanner;
 /**
 * Runs a Stock Trading Simulation
